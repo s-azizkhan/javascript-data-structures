@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://raw.githubusercontent.com/hebertcisco/ts-npm-package-boilerplate/main/.github/images/favicon512x512-npm.png" align="center" alt=":package: ts-npm-package-boilerplate" />
- <h2 align="center">:package: ts-npm-package-boilerplate</h2>
- <p align="center">TypeScript NPM Module Boilerplate</p>
+ <h2 align="center">:package: javascript data structures</h2>
+ <p align="center">Data structure NPM Module</p>
   <p align="center">
     <a href="https://github.com/s-azizkhan/javascript-data-structures/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/s-azizkhan/javascript-data-structures?style=flat&color=336791" />
@@ -34,13 +34,12 @@
 # Getting started
 
 ## Installation
-
-> Clone this repository: `git clone https://github.com/s-azizkhan/javascript-data-structures`
+`npm i js-datawave`
 
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](issues).
+Contributions, issues, and feature requests are welcome!<br />Feel free to check [issues page](issues).
 
 
 ## 📝 License
