@@ -1,7 +1,7 @@
 {
-  "name": "javascript-data-structures",
+  "name": "js-datawave",
   "version": "1.0.0",
-  "description": "A npm package learning project",
+  "description": "A npm package learning project, includes javascript data structures.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
