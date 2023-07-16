@@ -19,7 +19,7 @@
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
   },
-  "author": "Aziz Khan",
+  "author": "Aziz Khan <sakatazizkhan1@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "29.4.0",
@@ -32,6 +32,14 @@
     "ts-jest": "29.0.5",
     "typescript": "4.9.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-azizkhan/javascript-data-structures.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s-azizkhan/javascript-data-structures/issues"
+  },
+  "homepage": "https://github.com/s-azizkhan/javascript-data-structures#readme",
   "files": [
     "lib/**/*"
   ]
