@@ -1,5 +1,4 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/hebertcisco/ts-npm-package-boilerplate/main/.github/images/favicon512x512-npm.png" align="center" alt=":package: ts-npm-package-boilerplate" />
  <h2 align="center">:package: Javascript data structures</h2>
  <p align="center">Data structure NPM Module</p>
   <p align="center">

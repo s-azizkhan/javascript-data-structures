@@ -1,6 +1,6 @@
 {
   "name": "js-datawave",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A npm package learning project, includes javascript data structures.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -34,12 +34,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s-azizkhan/javascript-data-structures.git"
+    "url": "git+https://github.com/s-azizkhan/js-datawave.git"
   },
   "bugs": {
-    "url": "https://github.com/s-azizkhan/javascript-data-structures/issues"
+    "url": "https://github.com/s-azizkhan/js-datawave/issues"
   },
-  "homepage": "https://github.com/s-azizkhan/javascript-data-structures#readme",
+  "homepage": "https://github.com/s-azizkhan/js-datawave#readme",
   "files": [
     "lib/**/*"
   ]
